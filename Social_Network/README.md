@@ -7,7 +7,7 @@ Django is a Python frame for dealing with word pluralization..
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install all depencies
 
 ```bash
-pip install -r requirments.txt
+pip install -r requirements.txt
 ```
 
 ## Usage
